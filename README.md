@@ -1,6 +1,6 @@
 # Prueba-Tecnica-Full-Stack
 Reto completado bajo NATIVE JS. He querido tomarme este reto sin usar ni una sola librería. 
-#Tareas opcionales:
+Tareas opcionales:
 - Barra de búsqueda
 - Están ordenados por orden alfábetico. No hay botón puesto que la respuesta de la API ya venía ordenado. (Aunque se podría implementar)
 Alternativa para optimizar las cargas. Al usar await, el código se detiene hasta que no obtiene dicha imagen, ralentizando por completo la carga. Esto no
